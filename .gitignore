@@ -131,3 +131,4 @@ dist
 Backend/tasks.http
 Backend/login.http
 Backend/package-lock.json
+Frontend/package-lock.json
